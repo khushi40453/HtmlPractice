@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header><big><b>This is my personal first project</b></big></header>
+    <main>
+        <section><b>This is first section</b></This></section><hr>
+<!--Form >
+        <form action="/index.html" method="post">
+            user name: <input type="text"><br>
+            password: <input type="password"><br>
+            file: <input type="file"><br>
+            color: <input type="color"><br>
+            price range: <input type="range"><br>
+            poke me: <input type="button" value="click"> <br>
+
+            <label for="male">Male</label>
+            <input type="radio" id="male" name="gender" value="male"><br>
+
+            <label for="female">Female</label>
+            <input type="radio" id="female" name="gender" value="female"><br>
+
+            <label for="others">Others</label>
+            <input type="radio" id="others" name="gender" value="Others"><br>
+
+        </form><hr>
+        <!--Link>
+        <a href="https://www.google.com/" target="_blank">google </a> <br>
+        <textarea cols="30" rows="10">Write here</textarea>
+        <aside>This is aside
+        <!--List>
+            <ol type="A">
+                <li>I am 1st</li>
+                <ol type="a">
+                    <li>Me firstt</li>
+                    <li>me secondd</li>
+                </ol>
+                <li>I am 2nd</li>
+                <li>I am 3rd</li>
+                <li>I am 4th</li>
+                <li>I am 1st</li>
+            </ol>
+            <ul>
+                <li>hiii</li>
+                <li>hello</li>
+            </ul>
+        </aside><hr>
+    </main>
+    <div>Here comes the div
+        <h1>hii I am h1</h1>
+        <font>Hello I am font</font>
+    </div><hr>
+    <nav>Important section hai bhai</nav><hr>
+    <!--Table>
+    <table border="5">
+        <caption>Students Class</caption>
+        <tr>
+            <th>Name</th>
+            <th>class</th>
+            <th>roll no</th>
+        </tr>
+        <tr>
+            <td>khushi</td>
+            <td>9</td>
+            <td>14</td>
+        </tr>
+        <tr>
+            <td>aditya</td>
+            <td>10</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td colspan="2"> hellooo</td>
+            <td>10</td>
+        </tr>
+    </table><hr>
+    <footer>Here comes the end</footer><hr>
+</body>
+</html>
